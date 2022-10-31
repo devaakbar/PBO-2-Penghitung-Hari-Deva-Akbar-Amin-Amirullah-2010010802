@@ -1,4 +1,4 @@
-package penghitunghari;
+package gui;
 
 import java.awt.Color;
 import javax.swing.JOptionPane;
